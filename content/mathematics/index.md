@@ -34,6 +34,7 @@
 
 ### Linear Algebra
 - [Linear Algebra](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) - Full course on matrix theory and linear algebra by MIT OpenCourseWare
+- [3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra) - High quality intro course on linear algebra
 
 ## Lecture Notes
 - [Paul's Online Notes](https://tutorial.math.lamar.edu) - Complete set of free online notes and tutorials for math classes taught at Lamar University. Includes courses from Algebra to Differential Equations
